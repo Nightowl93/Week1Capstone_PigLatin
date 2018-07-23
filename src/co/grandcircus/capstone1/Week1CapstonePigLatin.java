@@ -39,7 +39,7 @@ public class Week1CapstonePigLatin {
 			userResponse = scnr.next();
 			
 			//Restarts the loop
-			if (userResponse.startsWith("y")) {
+			if (userResponse.toLowerCase().startsWith("y")) {
 				keepGoing = true;
 			}
 			
