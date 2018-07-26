@@ -1,3 +1,6 @@
+/* Shontinique Uqdah
+ * 07/20/2018
+ */
 package co.grandcircus.capstone1;
 
 import java.util.Scanner;
